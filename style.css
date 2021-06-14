@@ -6,3 +6,6 @@
   background-image: url(./img/amy-hirschi-szrJ3wjzOMg-unsplash.jpg);
   background-size: cover;
 }
+.btn-danger {
+  text-decoration: underline red;
+}
